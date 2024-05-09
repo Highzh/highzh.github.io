@@ -1,2 +1,0 @@
-godaddy二次验证的秘钥
-O3QVHWONLEYWLBID
